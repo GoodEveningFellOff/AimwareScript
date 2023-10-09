@@ -1,0 +1,8 @@
+• Recoded the entire script
+• Removed garbage
+• Added features
+  ○ This feature
+  ○ That feature
+    ○ Does this thing
+  ○ Final feature
+• Gave your mother a kiss
